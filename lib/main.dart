@@ -18,7 +18,7 @@ void main() {
         backgroundColor: Colors.blueGrey,
         appBar: AppBar(
           title:Center(
-            child: Text('Hello there !')) ,   
+            child: Text('Hello there, Get ready to die !')) ,   
           backgroundColor: Colors.blueGrey[900],
         ),   
         body: Center(
